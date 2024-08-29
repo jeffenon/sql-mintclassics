@@ -32,11 +32,12 @@ quality of their service to their customers.
 * The South warehouse has the lowest inventory count, order count, warehouse capacity, and available capacity.
 ### Inventory to Sales Ratio
 * The average Inventory-to-Sales ratio is 3.59, which is too high. Ideally, this is to be kept around 0.167 to 0.25, however, not one product
-  fits this criterion with the lowest ratio being 0.29.
+  fits this criterion with the lowest I/S ratio being around 0.29.
 * The 1985 Toyota Supra has not made any sales at all.
 ### Shipping Time
-* The overall average shipping time is around 3 days
-* The South warehouse has the highest Shipping Time
+* The shipping time ranges from 1 to 8 days.
+* There is an order that took 65 days to be shipped because the customer's credit card was declined.
+* The average shipping time is 4 days for all the warehouses.
 
 ## Recommendations
 * The South warehouse can be considered as the one to be closed for the following reasons:
@@ -44,8 +45,6 @@ quality of their service to their customers.
     out of the four warehouses used by the company.
   * The number of products to be redistributed across the other warehouses will be lesser since the South warehouse has the lowest current
     inventory
-  * The company's average shipping time might decrease since the South warehouse has the lowest shipping time. This is assuming that the other
-    warehouses perform similarly despite the closing of the South warehouse.
 * Consider investigating what interval of Inventory-to-Sales ratio is the best for the company and maintain the inventory accordingly. This would
   decrease the overall warehouse capacity of all the warehouses because of the removal of excess stocks.
 * Consider dropping the 1985 Toyota Supra from the product line. This product has not made any sales and there are 7733 in stock.
