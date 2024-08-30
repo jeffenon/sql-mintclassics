@@ -35,9 +35,9 @@ quality of their service to their customers.
   fits this criterion with the lowest I/S ratio being around 0.29.
 * The 1985 Toyota Supra has not made any sales at all.
 ### Shipping Time
-* The shipping time ranges from 1 to 8 days.
-* There is an order that took 65 days to be shipped because the customer's credit card was declined.
-* The average shipping time is 4 days for all the warehouses.
+* The shipping time data ranges from 1 to 65 days. The shipping time of 65 days was caused by the customer's credit card being
+  declined, thus, delaying the shipping after the payment was settled.
+* The majority of the orders were shipped within 6 days. This is true for all of the warehouses.
 
 ## Recommendations
 * The South warehouse can be considered as the one to be closed for the following reasons:
@@ -48,4 +48,4 @@ quality of their service to their customers.
 * Consider investigating what interval of Inventory-to-Sales ratio is the best for the company and maintain the inventory accordingly. This would
   decrease the overall warehouse capacity of all the warehouses because of the removal of excess stocks.
 * Consider dropping the 1985 Toyota Supra from the product line. This product has not made any sales and there are 7733 in stock.
-  This could potentially save the company around $440858.33 of stock value.
+  This could save the company around $440858.33 of stock value.
